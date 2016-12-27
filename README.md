@@ -1,0 +1,2 @@
+# Arduino-Serial-Morse-Code-Led
+This repo contains a Arduino sketch that, by default, translates to 'hello world' in Morse Code. It requires the user to open the Serial Monitor, and enter threir desired phrase(in all lowercase letters). The led will continue to display the original phrase, until it has finished. If your desired message has been entered during the original phrase, your message will be displayed immediately after.
